@@ -1,0 +1,8 @@
+.env
+*.env
+secrets.py
+*.h5
+*.pt
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
